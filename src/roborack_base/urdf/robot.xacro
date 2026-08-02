@@ -7,4 +7,6 @@
 
   <xacro:include filename="$(find roborack_base)/urdf/wheels.xacro"/>
 
+  <xacro:include filename="$(find roborack_base)/urdf/ros2_control.xacro"/>
+
 </robot>
