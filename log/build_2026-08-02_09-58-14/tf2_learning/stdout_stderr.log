@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing tf2_learning.egg-info/PKG-INFO
+writing dependency_links to tf2_learning.egg-info/dependency_links.txt
+writing entry points to tf2_learning.egg-info/entry_points.txt
+writing requirements to tf2_learning.egg-info/requires.txt
+writing top-level names to tf2_learning.egg-info/top_level.txt
+reading manifest file 'tf2_learning.egg-info/SOURCES.txt'
+writing manifest file 'tf2_learning.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/jazib-manzoor/ros2_ws/install/tf2_learning/lib/python3.12/site-packages/tf2-learning.egg-link (link to .)
+Installing marker_publisher script to /home/jazib-manzoor/ros2_ws/install/tf2_learning/lib/tf2_learning
+Installing tf_broadcaster script to /home/jazib-manzoor/ros2_ws/install/tf2_learning/lib/tf2_learning
+Installing tf_listener script to /home/jazib-manzoor/ros2_ws/install/tf2_learning/lib/tf2_learning
+
+Installed /home/jazib-manzoor/ros2_ws/build/tf2_learning
+running symlink_data

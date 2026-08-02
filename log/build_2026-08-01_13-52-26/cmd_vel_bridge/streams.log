@@ -1,0 +1,24 @@
+[2.860s] Invoking command in '/home/jazib-manzoor/ros2_ws/build/cmd_vel_bridge': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jazib-manzoor/ros2_ws/build/cmd_vel_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jazib-manzoor/ros2_ws/install/cmd_vel_bridge/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jazib-manzoor/ros2_ws/build/cmd_vel_bridge/build --no-deps symlink_data
+[3.318s] running develop
+[3.567s] running egg_info
+[3.567s] creating cmd_vel_bridge.egg-info
+[3.588s] writing cmd_vel_bridge.egg-info/PKG-INFO
+[3.588s] writing dependency_links to cmd_vel_bridge.egg-info/dependency_links.txt
+[3.588s] writing entry points to cmd_vel_bridge.egg-info/entry_points.txt
+[3.589s] writing requirements to cmd_vel_bridge.egg-info/requires.txt
+[3.589s] writing top-level names to cmd_vel_bridge.egg-info/top_level.txt
+[3.589s] writing manifest file 'cmd_vel_bridge.egg-info/SOURCES.txt'
+[3.635s] reading manifest file 'cmd_vel_bridge.egg-info/SOURCES.txt'
+[3.635s] writing manifest file 'cmd_vel_bridge.egg-info/SOURCES.txt'
+[3.661s] running build_ext
+[3.661s] Creating /home/jazib-manzoor/ros2_ws/install/cmd_vel_bridge/lib/python3.12/site-packages/cmd-vel-bridge.egg-link (link to .)
+[3.661s] Installing cmd_vel_bridge script to /home/jazib-manzoor/ros2_ws/install/cmd_vel_bridge/lib/cmd_vel_bridge
+[3.662s] 
+[3.662s] Installed /home/jazib-manzoor/ros2_ws/build/cmd_vel_bridge
+[3.662s] running symlink_data
+[3.662s] creating /home/jazib-manzoor/ros2_ws/install/cmd_vel_bridge/share/ament_index
+[3.662s] creating /home/jazib-manzoor/ros2_ws/install/cmd_vel_bridge/share/ament_index/resource_index
+[3.662s] creating /home/jazib-manzoor/ros2_ws/install/cmd_vel_bridge/share/ament_index/resource_index/packages
+[3.662s] symbolically linking /home/jazib-manzoor/ros2_ws/build/cmd_vel_bridge/resource/cmd_vel_bridge -> /home/jazib-manzoor/ros2_ws/install/cmd_vel_bridge/share/ament_index/resource_index/packages
+[3.663s] symbolically linking /home/jazib-manzoor/ros2_ws/build/cmd_vel_bridge/package.xml -> /home/jazib-manzoor/ros2_ws/install/cmd_vel_bridge/share/cmd_vel_bridge
+[3.711s] Invoked command in '/home/jazib-manzoor/ros2_ws/build/cmd_vel_bridge' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jazib-manzoor/ros2_ws/build/cmd_vel_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jazib-manzoor/ros2_ws/install/cmd_vel_bridge/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jazib-manzoor/ros2_ws/build/cmd_vel_bridge/build --no-deps symlink_data

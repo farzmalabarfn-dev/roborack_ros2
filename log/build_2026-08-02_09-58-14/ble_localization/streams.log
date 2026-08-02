@@ -1,0 +1,21 @@
+[3.590s] Invoking command in '/home/jazib-manzoor/ros2_ws/build/ble_localization': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jazib-manzoor/ros2_ws/build/ble_localization/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jazib-manzoor/ros2_ws/install/ble_localization/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jazib-manzoor/ros2_ws/build/ble_localization/build --no-deps symlink_data
+[4.171s] running develop
+[4.549s] running egg_info
+[4.584s] writing ble_localization.egg-info/PKG-INFO
+[4.584s] writing dependency_links to ble_localization.egg-info/dependency_links.txt
+[4.586s] writing entry points to ble_localization.egg-info/entry_points.txt
+[4.586s] writing requirements to ble_localization.egg-info/requires.txt
+[4.586s] writing top-level names to ble_localization.egg-info/top_level.txt
+[4.657s] reading manifest file 'ble_localization.egg-info/SOURCES.txt'
+[4.658s] writing manifest file 'ble_localization.egg-info/SOURCES.txt'
+[4.695s] running build_ext
+[4.696s] Creating /home/jazib-manzoor/ros2_ws/install/ble_localization/lib/python3.12/site-packages/ble-localization.egg-link (link to .)
+[4.697s] Installing beacon_node script to /home/jazib-manzoor/ros2_ws/install/ble_localization/lib/ble_localization
+[4.697s] Installing localization_node script to /home/jazib-manzoor/ros2_ws/install/ble_localization/lib/ble_localization
+[4.697s] Installing robot_node script to /home/jazib-manzoor/ros2_ws/install/ble_localization/lib/ble_localization
+[4.698s] Installing rssi_generator script to /home/jazib-manzoor/ros2_ws/install/ble_localization/lib/ble_localization
+[4.698s] Installing visualizer script to /home/jazib-manzoor/ros2_ws/install/ble_localization/lib/ble_localization
+[4.699s] 
+[4.699s] Installed /home/jazib-manzoor/ros2_ws/build/ble_localization
+[4.699s] running symlink_data
+[4.805s] Invoked command in '/home/jazib-manzoor/ros2_ws/build/ble_localization' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jazib-manzoor/ros2_ws/build/ble_localization/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jazib-manzoor/ros2_ws/install/ble_localization/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jazib-manzoor/ros2_ws/build/ble_localization/build --no-deps symlink_data

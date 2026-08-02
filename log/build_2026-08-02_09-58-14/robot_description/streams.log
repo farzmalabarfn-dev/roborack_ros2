@@ -1,0 +1,15 @@
+[3.585s] Invoking command in '/home/jazib-manzoor/ros2_ws/build/robot_description': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jazib-manzoor/ros2_ws/build/robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jazib-manzoor/ros2_ws/install/robot_description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jazib-manzoor/ros2_ws/build/robot_description/build --no-deps symlink_data
+[4.169s] running develop
+[4.547s] running egg_info
+[4.584s] writing robot_description.egg-info/PKG-INFO
+[4.585s] writing dependency_links to robot_description.egg-info/dependency_links.txt
+[4.585s] writing requirements to robot_description.egg-info/requires.txt
+[4.585s] writing top-level names to robot_description.egg-info/top_level.txt
+[4.654s] reading manifest file 'robot_description.egg-info/SOURCES.txt'
+[4.656s] writing manifest file 'robot_description.egg-info/SOURCES.txt'
+[4.697s] running build_ext
+[4.698s] Creating /home/jazib-manzoor/ros2_ws/install/robot_description/lib/python3.12/site-packages/robot-description.egg-link (link to .)
+[4.699s] 
+[4.699s] Installed /home/jazib-manzoor/ros2_ws/build/robot_description
+[4.699s] running symlink_data
+[4.811s] Invoked command in '/home/jazib-manzoor/ros2_ws/build/robot_description' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jazib-manzoor/ros2_ws/build/robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jazib-manzoor/ros2_ws/install/robot_description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jazib-manzoor/ros2_ws/build/robot_description/build --no-deps symlink_data

@@ -1,0 +1,6 @@
+[console_scripts]
+beacon_node = ble_localization.beacon_node:main
+localization_node = ble_localization.localization_node:main
+robot_node = ble_localization.robot_node:main
+rssi_generator = ble_localization.rssi_generator:main
+visualizer = ble_localization.visualizer:main

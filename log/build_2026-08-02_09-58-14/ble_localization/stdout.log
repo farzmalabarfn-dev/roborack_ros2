@@ -1,0 +1,19 @@
+running develop
+running egg_info
+writing ble_localization.egg-info/PKG-INFO
+writing dependency_links to ble_localization.egg-info/dependency_links.txt
+writing entry points to ble_localization.egg-info/entry_points.txt
+writing requirements to ble_localization.egg-info/requires.txt
+writing top-level names to ble_localization.egg-info/top_level.txt
+reading manifest file 'ble_localization.egg-info/SOURCES.txt'
+writing manifest file 'ble_localization.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/jazib-manzoor/ros2_ws/install/ble_localization/lib/python3.12/site-packages/ble-localization.egg-link (link to .)
+Installing beacon_node script to /home/jazib-manzoor/ros2_ws/install/ble_localization/lib/ble_localization
+Installing localization_node script to /home/jazib-manzoor/ros2_ws/install/ble_localization/lib/ble_localization
+Installing robot_node script to /home/jazib-manzoor/ros2_ws/install/ble_localization/lib/ble_localization
+Installing rssi_generator script to /home/jazib-manzoor/ros2_ws/install/ble_localization/lib/ble_localization
+Installing visualizer script to /home/jazib-manzoor/ros2_ws/install/ble_localization/lib/ble_localization
+
+Installed /home/jazib-manzoor/ros2_ws/build/ble_localization
+running symlink_data

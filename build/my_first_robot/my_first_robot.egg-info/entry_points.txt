@@ -1,0 +1,8 @@
+[console_scripts]
+action_client = my_first_robot.action_client:main
+action_server = my_first_robot.action_server:main
+hello_node = my_first_robot.helo_node:main
+my_first_subscriber = my_first_robot.my_first_subscriber:main
+publisher_node = my_first_robot.publisher_node:main
+service_client = my_first_robot.service_client:main
+service_server = my_first_robot.service_server:main

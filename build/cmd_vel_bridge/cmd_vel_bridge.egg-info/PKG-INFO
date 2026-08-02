@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: cmd-vel-bridge
+Version: 0.0.0
+Summary: Bridge from Twist to TwistStamped for diff_drive_controller
+Maintainer: jazib-manzoor
+Maintainer-email: your@email.com
+License: Apache-2.0

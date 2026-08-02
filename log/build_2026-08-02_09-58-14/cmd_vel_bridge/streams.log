@@ -1,0 +1,17 @@
+[3.607s] Invoking command in '/home/jazib-manzoor/ros2_ws/build/cmd_vel_bridge': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jazib-manzoor/ros2_ws/build/cmd_vel_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jazib-manzoor/ros2_ws/install/cmd_vel_bridge/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jazib-manzoor/ros2_ws/build/cmd_vel_bridge/build --no-deps symlink_data
+[4.179s] running develop
+[4.560s] running egg_info
+[4.594s] writing cmd_vel_bridge.egg-info/PKG-INFO
+[4.595s] writing dependency_links to cmd_vel_bridge.egg-info/dependency_links.txt
+[4.595s] writing entry points to cmd_vel_bridge.egg-info/entry_points.txt
+[4.596s] writing requirements to cmd_vel_bridge.egg-info/requires.txt
+[4.596s] writing top-level names to cmd_vel_bridge.egg-info/top_level.txt
+[4.664s] reading manifest file 'cmd_vel_bridge.egg-info/SOURCES.txt'
+[4.665s] writing manifest file 'cmd_vel_bridge.egg-info/SOURCES.txt'
+[4.705s] running build_ext
+[4.706s] Creating /home/jazib-manzoor/ros2_ws/install/cmd_vel_bridge/lib/python3.12/site-packages/cmd-vel-bridge.egg-link (link to .)
+[4.707s] Installing cmd_vel_bridge script to /home/jazib-manzoor/ros2_ws/install/cmd_vel_bridge/lib/cmd_vel_bridge
+[4.707s] 
+[4.708s] Installed /home/jazib-manzoor/ros2_ws/build/cmd_vel_bridge
+[4.708s] running symlink_data
+[4.806s] Invoked command in '/home/jazib-manzoor/ros2_ws/build/cmd_vel_bridge' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jazib-manzoor/ros2_ws/build/cmd_vel_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jazib-manzoor/ros2_ws/install/cmd_vel_bridge/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jazib-manzoor/ros2_ws/build/cmd_vel_bridge/build --no-deps symlink_data

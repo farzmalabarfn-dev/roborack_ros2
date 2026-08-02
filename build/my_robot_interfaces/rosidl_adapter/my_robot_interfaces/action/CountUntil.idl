@@ -1,0 +1,18 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from my_robot_interfaces/action/CountUntil.action
+// generated code does not contain a copyright notice
+
+
+module my_robot_interfaces {
+  module action {
+    struct CountUntil_Goal {
+      int32 target_count;
+    };
+    struct CountUntil_Result {
+      boolean success;
+    };
+    struct CountUntil_Feedback {
+      int32 current_number;
+    };
+  };
+};

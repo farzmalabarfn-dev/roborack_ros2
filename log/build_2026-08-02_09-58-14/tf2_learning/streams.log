@@ -1,0 +1,19 @@
+[3.559s] Invoking command in '/home/jazib-manzoor/ros2_ws/build/tf2_learning': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jazib-manzoor/ros2_ws/build/tf2_learning/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jazib-manzoor/ros2_ws/install/tf2_learning/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jazib-manzoor/ros2_ws/build/tf2_learning/build --no-deps symlink_data
+[4.134s] running develop
+[4.513s] running egg_info
+[4.546s] writing tf2_learning.egg-info/PKG-INFO
+[4.547s] writing dependency_links to tf2_learning.egg-info/dependency_links.txt
+[4.548s] writing entry points to tf2_learning.egg-info/entry_points.txt
+[4.548s] writing requirements to tf2_learning.egg-info/requires.txt
+[4.548s] writing top-level names to tf2_learning.egg-info/top_level.txt
+[4.619s] reading manifest file 'tf2_learning.egg-info/SOURCES.txt'
+[4.621s] writing manifest file 'tf2_learning.egg-info/SOURCES.txt'
+[4.656s] running build_ext
+[4.657s] Creating /home/jazib-manzoor/ros2_ws/install/tf2_learning/lib/python3.12/site-packages/tf2-learning.egg-link (link to .)
+[4.658s] Installing marker_publisher script to /home/jazib-manzoor/ros2_ws/install/tf2_learning/lib/tf2_learning
+[4.658s] Installing tf_broadcaster script to /home/jazib-manzoor/ros2_ws/install/tf2_learning/lib/tf2_learning
+[4.659s] Installing tf_listener script to /home/jazib-manzoor/ros2_ws/install/tf2_learning/lib/tf2_learning
+[4.659s] 
+[4.659s] Installed /home/jazib-manzoor/ros2_ws/build/tf2_learning
+[4.659s] running symlink_data
+[4.751s] Invoked command in '/home/jazib-manzoor/ros2_ws/build/tf2_learning' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jazib-manzoor/ros2_ws/build/tf2_learning/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jazib-manzoor/ros2_ws/install/tf2_learning/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jazib-manzoor/ros2_ws/build/tf2_learning/build --no-deps symlink_data

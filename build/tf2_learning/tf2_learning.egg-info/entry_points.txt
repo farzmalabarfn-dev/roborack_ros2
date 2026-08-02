@@ -1,0 +1,4 @@
+[console_scripts]
+marker_publisher = tf2_learning.marker_publisher:main
+tf_broadcaster = tf2_learning.tf_broadcaster:main
+tf_listener = tf2_learning.tf_listener:main

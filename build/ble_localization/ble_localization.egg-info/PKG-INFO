@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: ble-localization
+Version: 0.0.0
+Summary: BLE Localization Simulator using ROS 2
+Maintainer: jazib-manzoor
+Maintainer-email: your_email@example.com
+License: Apache-2.0
